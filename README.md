@@ -1,4 +1,4 @@
-### This repo has deprecated in favor of [modern opencore efi](https://github.com/Dimon70007/msi-GF75-opencore-efi)
+### This repo has been deprecated in favor of [modern opencore efi](https://github.com/Dimon70007/msi-GF75-opencore-efi)
 
 ### Clover boot efi usb build for msi GF75 thin 9SC
 
