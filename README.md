@@ -1,3 +1,5 @@
+### This repo has deprecated in favor of [modern opencore efi](https://github.com/Dimon70007/msi-GF75-opencore-efi)
+
 ### Clover boot efi usb build for msi GF75 thin 9SC
 
 This is a copy of files from usb drive EFI partition, used to run already installed macos monterey
